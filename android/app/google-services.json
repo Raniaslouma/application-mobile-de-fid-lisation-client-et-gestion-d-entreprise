@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33928713641",
+    "project_id": "fidapp-a2adf",
+    "storage_bucket": "fidapp-a2adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33928713641:android:af7458ccaea71395d7e0b8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33928713641-hdc0ro90ilnu70bl0nf7g0ghueft84cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-b1N0VuFw0_-_M4AAxkaOPrFPS-t3GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33928713641-hdc0ro90ilnu70bl0nf7g0ghueft84cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
